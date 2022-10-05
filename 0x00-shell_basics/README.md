@@ -1,1 +1,1 @@
-This shell script prints absolute path name of current working directory
+This folder contains a list of basic shell scripts
